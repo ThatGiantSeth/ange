@@ -1,0 +1,17 @@
+// Not all of these are required properties
+module.exports = {
+	commands: ['status'],
+	category: 'Bot',
+	description: 'View the bot\'s status page.',
+	minArgs: 0,
+	maxArgs: 0,
+	expectedArgs: '',
+	permissions: ['MANAGE_GUILD'],
+	guildOnly: true,
+	ownerOnly: true,
+	cooldown: '5s',
+	testOnly: true,
+	callback: ({ message, args, text, client, prefix, instance, channel }) => {
+  message.channel.send('template');
+	},
+};

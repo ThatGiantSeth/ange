@@ -1,0 +1,104 @@
+{
+    "LANGUAGE_NOT_SUPPORTED": {
+      "english": "Sorry, but I don't know how to speak {LANGUAGE} yet."
+    },
+    "CURRENT_LANGUAGE": {
+      "english": "I'm currently speaking {LANGUAGE}."
+    },
+    "NEW_LANGUAGE": {
+      "english": "I will now speak {LANGUAGE}."
+    },
+    "BOT_OWNERS_ONLY": {
+      "english": "Sneaky sneaky, going places you shouldn't. Only the bot owner can run this command."
+    },
+    "DISABLED_COMMAND": {
+      "english": "It says here that that comman- Wait. That that? English is stupid. Anyway, that command is currently disabled in this server."
+    },
+    "MISSING_PERMISSION": {
+      "english": "Sorry, but it seems like you don't have permission to use this command."
+    },
+    "MISSING_ROLES": {
+      "english": "Sorry, but your ID says you don't have the role(s) for this command."
+    },
+    "COOLDOWN": {
+      "english": "Wait {COOLDOWN} before using that command again or I'll break your nico nico kneecaps!"
+    },
+    "ENABLE_DISABLE_STATE": {
+      "english": "The state must be either \"enable\" or \"disable\"."
+    },
+    "CANNOT_ENABLE_DISABLE_IN_DMS": {
+      "english": "You can't enable or disable commands in DMs."
+    },
+    "COMMAND_ALREADY_ENABLED": {
+      "english": "I've already enabled that command!"
+    },
+    "COMMAND_ALREADY_DISABLED": {
+      "english": "I've already disabled this command!"
+    },
+    "COMMAND_NOW_ENABLED": {
+      "english": "I've enabled {COMMAND}!"
+    },
+    "COMMAND_NOW_DISABLED": {
+      "english": "I've disabled {COMMAND}!"
+    },
+    "UNKNOWN_COMMAND": {
+      "english": "I couldn't find command {COMMAND}!"
+    },
+    "CURRENT_PREFIX": {
+      "english": "My current prefix is {PREFIX}."
+    },
+    "SET_PREFIX": {
+      "english": "I've set your command prefix to {PREFIX}."
+    },
+    "CANNOT_SET_PREFIX_IN_DMS": {
+      "english": "You can't change the prefix in DMs. You also can't \"slide into\" my DMs."
+    },
+    "CANNOT_CHANGE_REQUIRED_ROLES_IN_DMS": {
+      "english": "You can't change required roles in DMs."
+    },
+    "REMOVED_ALL_REQUIRED_ROLES": {
+      "english": "I've removed all required roles from command {COMMAND}."
+    },
+    "ADDED_REQUIRED_ROLE": {
+      "english": "I've added role {ROLE} to command {COMMAND}."
+    },
+    "SYNTAX_ERROR": {
+      "english": "This syntax is incorrect! Try using \"{PREFIX}{COMMAND} {ARGUMENTS}\" instead."
+    },
+    "NO_DATABASE_FOUND": {
+      "english": "I couldn't find a database connection!"
+    },
+    "GUILD_ONLY_COMMAND": {
+      "english": "You can only use this command in a server!"
+    },
+    "NO_REACT_PERMS": {
+      "english": "I'm missing the \"Add Reactions\" permission!"
+    },
+    "EXCEPTION": {
+      "english": "Uh oh! I couldn't run this command! I have reported the error to the developer."
+    },
+    "HELP_MENU": {
+      "TITLE": {
+        "english": "What can I help you with?"
+      },
+      "SELECT_A_CATEGORY": {
+        "english": "You can select a command category by clicking its reaction."
+      },
+      "COMMANDS": {
+        "english": "Commands"
+      },
+      "DESCRIPTION_FIRST_LINE": {
+        "english": "Click 🚪 to return to the previous menu."
+      },
+      "DESCRIPTION_SECOND_LINE": {
+        "english": "Click ⬅ or ➡ to navigate between pages."
+      },
+      "ALIASES": {
+        "english": "Aliases"
+      },
+      "SYNTAX": {
+        "english": "Syntax"
+      }
+    }
+  }
+  

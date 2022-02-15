@@ -1,0 +1,25 @@
+{
+  "name": "ange",
+  "version": "1.0.0",
+  "description": "Security for The Hangout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "dotenv": "^8.6.0",
+    "eslint": "^7.26.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.12.7",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7",
+    "pm2": "^5.1.2",
+    "wokcommands": "^1.5.3"
+  }
+}
