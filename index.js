@@ -23,7 +23,7 @@ client.on ('ready', async () => {
     // If you want to disable built in commands you can add them to this array. Simply uncomment the strings to disable that command.
 
     const disabledDefaultCommands = [
-        // 'help',
+        'help',
         'command',
         'language',
         'prefix',
