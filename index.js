@@ -11,7 +11,7 @@ const client = new Client({
 client.on ('ready', async () => {
   console.log('Bot online!');
       // sets bot status
-        client.user.setPresence({ status : 'dnd', type : 'WATCHING' });
+        client.user.setPresence({ status : 'dnd' });
         client.user.setActivity('out for intruders.', { type: 'WATCHING' });
 
     // Used to configure the database connection.
